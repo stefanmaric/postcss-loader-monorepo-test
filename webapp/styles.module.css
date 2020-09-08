@@ -1,0 +1,9 @@
+.Hue {
+  color: hotpink;
+}
+
+@media (min-resolution: 2dppx) {
+  .Hue {
+    color: teal;
+  }
+}
